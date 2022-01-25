@@ -49,7 +49,7 @@ Entendemos que, como Novia de Jesús, la Iglesia está atenta al momento del reg
 
 En este momento profético, la Iglesia debe estar predicando el Evangelio de Jesús con poder y la Palabra debe ser acompañada de señales que la confirmen. Ésta es la razón por la cual la Iglesia debe buscar el bautismo con el Espíritu Santo (Hechos 1:8) y los dones espirituales. ¡Las manifestaciones de los dones espirituales son usadas por el Señor para demostrar al mundo que Jesús está Vivo!
 
-Además de proclamar que el Señor Jesús está vivo, {% include pullquote.html quote="la Iglesia tiene la gran responsabilidad de anunciar que Él en breve Volverá. Maranatha ¡Ven Señor Jesús!" %}
+Además de proclamar que el Señor Jesús está vivo, la Iglesia tiene la gran responsabilidad de anunciar que Él en breve Volverá. Maranatha ¡Ven Señor Jesús!.
 
 
 <!-- 
